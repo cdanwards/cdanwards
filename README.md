@@ -1,4 +1,4 @@
-# Hi there, I'm Dan Edwards 👋
+# Hey there, I'm Dan Edwards 👋
 
 I'm a seasoned Web & Mobile Developer with a passion for crafting engaging and efficient applications. At Infinite Red LLC, I focus on leveraging the power of React Native, TypeScript, and AI to deliver exceptional user experiences.
 
