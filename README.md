@@ -4,11 +4,13 @@ I'm a seasoned Web & Mobile Developer with a passion for crafting engaging and e
 
 ## 🛠 Technologies & Tools
 
-- **Frontend:** React, React Native
-- **Backend:** Node.js
-- **Database:** SQLite
-- **Languages:** TypeScript
-- **Tools:** LLMs for enhancing development productivity
+- **Frontend:** React, React Native – building smooth, responsive UIs across web and mobile  
+- **Backend:** Node.js, Express, Next.js (API routes), Firebase Functions, AWS Lambda – from lightweight services to scalable cloud functions  
+- **Databases:** SQLite, PostgreSQL, Supabase, Firebase Realtime DB – flexible solutions from local prototyping to production-scale data  
+- **ORMs & Data Tools:** Prisma – intuitive and type-safe database access  
+- **Languages:** TypeScript, JavaScript, Go, SQL – strong foundations across modern web, scripting, and data languages  
+- **CI/CD:** Github Actions, GitLab CI/CD, CircleCI – automated testing and deployment pipelines for consistent delivery
+
 
 ## 🔭 I’m currently working on
 
@@ -25,9 +27,9 @@ I'm a seasoned Web & Mobile Developer with a passion for crafting engaging and e
 
 ## 📫 How to reach me
 
-- **LinkedIn:** [Dan Edwards](https://www.linkedin.com/in/cdanwards/)
-- **Twitter:** [@cdanwards](https://twitter.com/cdanwards) (Barely here anymore)
+- **LinkedIn 💼:** [Dan Edwards](https://www.linkedin.com/in/cdanwards/)
+- **BlueSky 🦋:** [cdanwards.bsky.social]([https://twitter.com/cdanwards](https://bsky.app/profile/cdanwards.bsky.social)) (Barely here anymore)
 
 ## ⚡ In My Downtime
 
-- When I'm not coding, you'll find me training for distance running, language learning and hanging out with my amazing family in the great outdoors!
+- When I'm not coding, you'll find me training for distance running, language learning, becoming a Notion power-user and hanging out with my amazing family in the great outdoors!
