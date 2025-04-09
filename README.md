@@ -28,7 +28,7 @@ I'm a seasoned Web & Mobile Developer with a passion for crafting engaging and e
 ## 📫 How to reach me
 
 - **LinkedIn 💼:** [Dan Edwards](https://www.linkedin.com/in/cdanwards/)
-- **BlueSky 🦋:** [cdanwards.bsky.social]([https://twitter.com/cdanwards](https://bsky.app/profile/cdanwards.bsky.social)) (Barely here anymore)
+- **BlueSky 🦋:** [cdanwards.bsky.social](https://bsky.app/profile/cdanwards.bsky.social)
 
 ## ⚡ In My Downtime
 
