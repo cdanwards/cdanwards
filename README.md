@@ -4,7 +4,7 @@ I'm a seasoned Web & Mobile Developer with a passion for crafting engaging and e
 
 ## 🛠 Technologies & Tools
 
-- **Frontend:** React, React Native – building smooth, responsive UIs across web and mobile  
+- **Frontend:** React, React Native, NextJS, Expo – building smooth, responsive UIs across web and mobile  
 - **Backend:** Node.js, Express, Next.js (API routes), Firebase Functions, AWS Lambda – from lightweight services to scalable cloud functions  
 - **Databases:** SQLite, PostgreSQL, Supabase, Firebase Realtime DB – flexible solutions from local prototyping to production-scale data  
 - **ORMs & Data Tools:** Prisma – intuitive and type-safe database access  
