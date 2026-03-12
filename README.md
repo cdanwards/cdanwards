@@ -1,35 +1,45 @@
-# Hey there, I'm Dan Edwards 👋
+# Dan Edwards
 
-I'm a seasoned Web & Mobile Developer with a passion for crafting engaging and efficient applications. At Infinite Red, I focus on leveraging the power of React Native, TypeScript, and AI to deliver exceptional user experiences.
+React Native engineer. Occasional philosopher. Always in the middle of refactoring something.
 
-## 🛠 Technologies & Tools
+I build mobile apps at [Infinite Red](https://infinite.red) — the kind that actually ship, actually scale, and actually get used by people who aren't the client's employees.
 
-- **Frontend:** React, React Native, NextJS, Expo – building smooth, responsive UIs across web and mobile  
-- **Backend:** Node.js, Express, Next.js (API routes), Firebase Functions, AWS Lambda – from lightweight services to scalable cloud functions  
-- **Databases:** SQLite, PostgreSQL, Supabase, Firebase Realtime DB – flexible solutions from local prototyping to production-scale data  
-- **ORMs & Data Tools:** Prisma – intuitive and type-safe database access  
-- **Languages:** TypeScript, JavaScript, Go, SQL – strong foundations across modern web, scripting, and data languages  
-- **CI/CD:** Github Actions, GitLab CI/CD, CircleCI – automated testing and deployment pipelines for consistent delivery
+---
 
+## What I work with
 
-## 🔭 I’m currently working on
+**Mobile & Web** — React Native, Expo, React, Next.js  
+**Backend** — Node.js, Express, AWS Lambda, Firebase Functions  
+**Data** — PostgreSQL, SQLite, Supabase, Prisma, Firebase  
+**Languages** — TypeScript (primarily), JavaScript, Go, SQL  
+**CI/CD** — GitHub Actions, GitLab CI/CD, CircleCI  
 
-- Enhancing mobile app performance and user experience with React Native.
-- Consulting on best practices for scalable app development.
-- Creating elegant and optimised component libraries
-- Exploring innovative ways to integrate LLMs into the development process.
+TypeScript is non-negotiable. The compiler is not your enemy.
 
-## 🌱 I’m currently learning
+---
 
-- Advanced techniques in React Native for complex animations and transitions.
-- The latest trends in TypeScript for safer and more reliable code.
-- Exploring the potential of AI in software development.
+## Currently
 
-## 📫 How to reach me
+- Shipping production React Native at scale, navigating the usual joys of auth, OTA updates, and Apple's review process
+- Quietly building things under **Aldercroft** — an indie software venture that will either be a footnote or a chapter, TBD
+- Using AI tooling daily and unironically — Claude, Cursor, and friends are load-bearing parts of my workflow, not novelties. I've thought a lot about what that means for how we write, review, and own code
+- Integrating LLMs into mobile products in ways that are actually useful rather than just impressive in demos
 
-- **LinkedIn 💼:** [Dan Edwards](https://www.linkedin.com/in/cdanwards/)
-- **BlueSky 🦋:** [cdanwards.bsky.social](https://bsky.app/profile/cdanwards.bsky.social)
+---
 
-## ⚡ In My Downtime
+## On the side
 
-- When I'm not coding, you'll find me training for distance running, language learning, becoming a Notion power-user and hanging out with my amazing family in the great outdoors!
+I pull cards (MTG — the intersection of nostalgia and poor financial decisions). I manage an FPL team with more conviction than results. I lift weights and track macros with the same energy I bring to TypeScript types: obsessively and for reasons I struggle to fully articulate.
+
+---
+
+## Philosophy
+
+The codebase will outlive the deadline. Write accordingly.
+
+---
+
+## Find me
+
+- [LinkedIn](https://www.linkedin.com/in/cdanwards/)
+- [BlueSky](https://bsky.app/profile/cdanwards.bsky.social)
