@@ -2,8 +2,6 @@
 
 React Native engineer. Occasional philosopher. Always in the middle of refactoring something.
 
-I build mobile apps at [Infinite Red](https://infinite.red) — the kind that actually ship, actually scale, and actually get used by people who aren't the client's employees.
-
 ---
 
 ## What I work with
